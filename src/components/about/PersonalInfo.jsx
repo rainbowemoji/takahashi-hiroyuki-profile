@@ -1,17 +1,16 @@
 import React from "react";
 
 const personalInfoContent = [
-  { meta: "first name", metaInfo: "Takahashi" },
-  { meta: "last name", metaInfo: "Hiroyuki" },
-  { meta: "Age", metaInfo: "27 Years" },
-  { meta: "Nationality", metaInfo: "Japanese" },
-  { meta: "Freelance", metaInfo: "Available" },
-  { meta: "Address", metaInfo: "Okazaki, Japan" },
-  { meta: "phone", metaInfo: "+81 50 5539 9613" },
-  { meta: "Email", metaInfo: "devzone1209@gmail.com" },
-  { meta: "Skype", metaInfo: "live:.cid.5be51a652507c1b5" },
+  { meta: "First Name", metaInfo: "Takahashi" },
+  { meta: "Last Name", metaInfo: "Hiroyuki" },
+  { meta: "Location", metaInfo: "Okazaki, Japan" },
+  { meta: "Github", metaInfo: "rainbowemoji" },
+  { meta: "Email", metaInfo: "taka.hiro.illus@gmail.com" },
+  { meta: "Phone Number", metaInfo: "+81 50 5539 9613" },
+  { meta: "LinkedIn", metaInfo: "takahashi-hiroyuki-7aa34a221" },
   { meta: "Telegram", metaInfo: "@trade_plat" },
-  { meta: "langages", metaInfo: "English" },
+  { meta: "Skype", metaInfo: "live:davidlimdev" },
+  { meta: "Langages", metaInfo: "English" },
 ];
 
 const PersonalInfo = () => {

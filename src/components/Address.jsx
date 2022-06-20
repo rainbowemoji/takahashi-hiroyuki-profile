@@ -2,17 +2,17 @@ import React from "react";
 
 const Address = () => {
   const contactInfo = {
-    address: "Aichi, Okazaki-shi, KamiSato 444-2136",
-    mail: "devzone1209@gmail.com",
+    address: "Aichi, Okazaki-shi, Kamisato 444-2136",
+    mail: "taka.hiro.illus@gmail.com",
     phone: "+81 50 5539 9613",
   };
   return (
     <>
-      <p className="open-sans-font custom-span-contact position-relative">
+      {/* <p className="open-sans-font custom-span-contact position-relative">
         <i className="fa fa-map position-absolute"></i>
         <span className="d-block">Address Point</span>
         {contactInfo.address}
-      </p>
+      </p> */}
       {/* End .custom-span-contact */}
 
       <p className="open-sans-font custom-span-contact position-relative">

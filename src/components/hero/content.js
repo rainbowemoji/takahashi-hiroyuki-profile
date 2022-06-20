@@ -3,6 +3,6 @@ export const heroContent = {
   heroMobileImage: "img-mobile",
   heroTitleName: "Takahashi Hiroyuki",
   heroDesignation: "Full-Stack Blockchain Developer",
-  heroDescriptions: "Talented, Prepared, Motivated, Hard-working ",
+  heroDescriptions: "Talented, Prepared, Motivated, and Hard-working ",
   heroBtn: "more about me",
 };

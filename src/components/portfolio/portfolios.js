@@ -66,7 +66,7 @@ export const portfolioData = [
     name: "Moon Roll",
     client: "Moon",
     languages: " React, Tailwindcss, Express, Web3 integration",
-    preview: "https://test.moonroll.io/",
+    preview: "https://moonroll.io/",
     image: "img/projects/moon-roll.png",
   },
   {
